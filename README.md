@@ -64,8 +64,8 @@ public class idletocrouch : MonoBehaviour
 }
 ```
 ## Output:
-![output]()
-![output]()
-![output]()
+![output](https://github.com/jhansi21005096/Animator/blob/main/output1.png)
+![output](https://github.com/jhansi21005096/Animator/blob/main/output2.png)
+![output](https://github.com/jhansi21005096/Animator/blob/main/output3.png)
 ## Result:
 Animator using unity using c# is developed successfully.
